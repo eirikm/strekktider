@@ -1,0 +1,731 @@
+{
+  "metadata": {
+    "etapper": [
+      {
+        "etappeNavn": "S-1",
+        "fraPost": "S",
+        "tilPost": "1",
+        "postNummer": 151
+      },
+      {
+        "etappeNavn": "1-2",
+        "fraPost": "1",
+        "tilPost": "2",
+        "postNummer": 123
+      },
+      {
+        "etappeNavn": "2-3",
+        "fraPost": "2",
+        "tilPost": "3",
+        "postNummer": 195
+      },
+      {
+        "etappeNavn": "3-4",
+        "fraPost": "3",
+        "tilPost": "4",
+        "postNummer": 42
+      },
+      {
+        "etappeNavn": "4-5",
+        "fraPost": "4",
+        "tilPost": "5",
+        "postNummer": 171
+      },
+      {
+        "etappeNavn": "5-6",
+        "fraPost": "5",
+        "tilPost": "6",
+        "postNummer": 164
+      },
+      {
+        "etappeNavn": "6-7",
+        "fraPost": "6",
+        "tilPost": "7",
+        "postNummer": 144
+      },
+      {
+        "etappeNavn": "7-8",
+        "fraPost": "7",
+        "tilPost": "8",
+        "postNummer": 128
+      },
+      {
+        "etappeNavn": "8-9",
+        "fraPost": "8",
+        "tilPost": "9",
+        "postNummer": 202
+      },
+      {
+        "etappeNavn": "9-10",
+        "fraPost": "9",
+        "tilPost": "10",
+        "postNummer": 120
+      },
+      {
+        "etappeNavn": "10-11",
+        "fraPost": "10",
+        "tilPost": "11",
+        "postNummer": 101
+      },
+      {
+        "etappeNavn": "11-12",
+        "fraPost": "11",
+        "tilPost": "12",
+        "postNummer": 100
+      },
+      {
+        "etappeNavn": "12-13",
+        "fraPost": "12",
+        "tilPost": "13",
+        "postNummer": 90
+      },
+      {
+        "etappeNavn": "13-M",
+        "fraPost": "13",
+        "tilPost": "M",
+        "postNummer": null
+      }
+    ]
+  },
+  "deltakere": [
+    {
+      "plassering": 1,
+      "name": "Tim Towdy",
+      "club": "AOL",
+      "sluttid": {
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 21
+      },
+      "diff": {
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "etapper": [
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 29
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 29
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 6
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 35
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 7,
+            "seconds": 25
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 12,
+            "seconds": 0
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 32
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 16,
+            "seconds": 32
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 29
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 19,
+            "seconds": 1
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 43
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 20,
+            "seconds": 44
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 10,
+            "seconds": 32
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 31,
+            "seconds": 16
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 22
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 34,
+            "seconds": 38
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 24
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 37,
+            "seconds": 2
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 51
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 40,
+            "seconds": 53
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 5,
+            "seconds": 15
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 46,
+            "seconds": 8
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 45
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 48,
+            "seconds": 53
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 28
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 49,
+            "seconds": 21
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 49,
+            "seconds": 21
+          },
+          "totalplassering": 1
+        }
+      ]
+    },
+    {
+      "plassering": 2,
+      "name": "Kan Sas",
+      "club": "HOL",
+      "sluttid": {
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 10
+      },
+      "diff": {
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 49
+      },
+      "etapper": [
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 58
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 58
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 54
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 5,
+            "seconds": 52
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 5,
+            "seconds": 48
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 11,
+            "seconds": 40
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 9,
+            "seconds": 8
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 20,
+            "seconds": 48
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 39
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 23,
+            "seconds": 27
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 20
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 25,
+            "seconds": 47
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 8,
+            "seconds": 35
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 34,
+            "seconds": 22
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 50
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 38,
+            "seconds": 12
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 59
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 41,
+            "seconds": 11
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 3
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 45,
+            "seconds": 14
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 5,
+            "seconds": 25
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 50,
+            "seconds": 39
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 2,
+            "seconds": 53
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 53,
+            "seconds": 32
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 38
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 54,
+            "seconds": 10
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 54,
+            "seconds": 10
+          },
+          "totalplassering": 2
+        }
+      ]
+    },
+    {
+      "plassering": 3,
+      "name": "Lydia N.",
+      "club": "POL",
+      "sluttid": {
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 46
+      },
+      "diff": {
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 25
+      },
+      "etapper": [
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 11
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 11
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 25
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 6,
+            "seconds": 36
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 57
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 11,
+            "seconds": 33
+          },
+          "totalplassering": 1
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 5,
+            "seconds": 41
+          },
+          "etappeplassering": 2,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 17,
+            "seconds": 14
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 3,
+            "seconds": 2
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 20,
+            "seconds": 16
+          },
+          "totalplassering": 2
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 8,
+            "seconds": 18
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 28,
+            "seconds": 34
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 11,
+            "seconds": 37
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 40,
+            "seconds": 11
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 5,
+            "seconds": 27
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 45,
+            "seconds": 38
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 5
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 49,
+            "seconds": 43
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 47
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 0,
+            "minutes": 54,
+            "seconds": 30
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 8,
+            "seconds": 20
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 1,
+            "minutes": 2,
+            "seconds": 50
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 4,
+            "seconds": 48
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 1,
+            "minutes": 7,
+            "seconds": 38
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 1,
+            "seconds": 8
+          },
+          "etappeplassering": 3,
+          "totaltid": {
+            "hours": 1,
+            "minutes": 8,
+            "seconds": 46
+          },
+          "totalplassering": 3
+        },
+        {
+          "etappetid": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0
+          },
+          "etappeplassering": 1,
+          "totaltid": {
+            "hours": 1,
+            "minutes": 8,
+            "seconds": 46
+          },
+          "totalplassering": 3
+        }
+      ]
+    }
+  ]
+}

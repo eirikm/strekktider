@@ -1,0 +1,33 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/node': ^18.0.0
+  '@types/sprintf-js': ^1.1.2
+  beautiful-dom: ^1.0.9
+  sprintf-js: ^1.1.2
+
+dependencies:
+  '@types/sprintf-js': 1.1.2
+  beautiful-dom: 1.0.9
+  sprintf-js: 1.1.2
+
+devDependencies:
+  '@types/node': 18.0.0
+
+packages:
+
+  /@types/node/18.0.0:
+    resolution: {integrity: sha512-cHlGmko4gWLVI27cGJntjs/Sj8th9aYwplmZFwmmgYQQvL5NUsgVJG7OddLvNfLqYS31KFN0s3qlaD9qCaxACA==}
+    dev: true
+
+  /@types/sprintf-js/1.1.2:
+    resolution: {integrity: sha512-hkgzYF+qnIl8uTO8rmUSVSfQ8BIfMXC4yJAF4n8BE758YsKBZvFC4NumnAegj7KmylP0liEZNpb9RRGFMbFejA==}
+    dev: false
+
+  /beautiful-dom/1.0.9:
+    resolution: {integrity: sha512-DCtfle8jxvIjUgyrcokWcxVxDxS9bsWBC5lntKasOczGwkGM7Q/M22aD5OVEpIsF3blcm7S64Ub3nWHb0MUYxQ==}
+    dev: false
+
+  /sprintf-js/1.1.2:
+    resolution: {integrity: sha512-VE0SOVEHCk7Qc8ulkWw3ntAzXuqf7S2lvwQaDLRnUeIEaKNQJzV6BwmLKhOqT61aGhfUMrXeaBk+oDGCzvhcug==}
+    dev: false

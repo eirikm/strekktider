@@ -1,0 +1,27 @@
+Strekktider:
+- deploy edge-function
+- deploy react på github-pages
+- sjekk om det finnes noen form for etags
+    - bruk content-length
+- uthenting av data
+    - se insomnia workspace
+
+Database:
+    - event-tabell
+        - eventId
+        - categoryId
+        - eventNavn
+        - rawHtml
+        - jsonFromHtml
+        - content-length
+        - lastUpdated
+    - category-tabell
+        - eventId
+        - categoryId
+        - categoryName
+        - rawHtml
+        - rawText?
+        - jsonFromHtml
+        - jsonFromText?
+        - content-length
+        - lastUpdated
