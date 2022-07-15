@@ -31,8 +31,8 @@ export default function App() {
         </thead>
         <tbody>
           {data.deltakere.map((d, idx) => {
-            const stickyColor = idx % 2 == 0 ? "bg-amber-200" : "bg-rose-200";
-            const color = idx % 2 == 0 ? "bg-amber-100" : "bg-rose-100";
+            const stickyColor = idx % 2 === 0 ? "bg-amber-200" : "bg-rose-200";
+            const color = idx % 2 === 0 ? "bg-amber-100" : "bg-rose-100";
             return (
               <>
                 <tr>
